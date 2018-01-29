@@ -1,4 +1,4 @@
-package javaW;
+
 
 public class LinkedList1 {
 
